@@ -5,7 +5,7 @@ import { useNavigate } from 'react-router-dom'
 import Spinner from '../components/Spinner'
 import { toast } from 'react-toastify'
 
-//Api key = AIzaSyC0D1PR67vFG8V50TF9p_40mpINGFIBHQY
+
 
 function CreateListing() {
    const [geolocationEnabled, setGeolocationEnabled] = useState(true)
